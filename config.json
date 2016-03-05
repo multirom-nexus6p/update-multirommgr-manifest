@@ -1,0 +1,16 @@
+{
+    "devices": [
+        {
+            "name": "angler",
+            "changelogs": [
+            ],
+            "kernels": [
+                {
+                    "name": "Stock 6.0.1-20160224",
+                    "file": "kernel-hardboot-stock-angler-6.0.1-20160224.zip"
+                }
+            ],
+            "uninstaller": "multirom_uninstaller.zip"
+        }
+    ]
+}

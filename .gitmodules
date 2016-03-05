@@ -1,0 +1,3 @@
+[submodule "bugfree-tribble"]
+	path = bugfree-tribble
+	url = git@github.com:multirom-nexus6p/bugfree-tribble.git
