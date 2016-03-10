@@ -2,7 +2,7 @@ Script for updating MultiROMMgr manifest for Nexus 6P
 
 You need to grab our modified version of Tassadar's manifest generator:
 
-`git submodule update`
+`git submodule update --init`
 
 Then clone our binaries repo to the angler folder:
 
