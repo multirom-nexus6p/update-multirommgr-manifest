@@ -6,8 +6,8 @@
             ],
             "kernels": [
                 {
-                    "name": "Stock 6.0.1-20160417",
-                    "file": "kernel-hardboot-stock-angler-6.0.1-20160417.zip"
+                    "name": "Stock 6.0.1-20160514",
+                    "file": "kernel-hardboot-stock-angler-6.0.1-20160514.zip"
                 }
             ],
             "uninstaller": "multirom_uninstaller.zip"
